@@ -1,2 +1,5 @@
 # Actividades-Kami-DW
-Este repositorio es creado para la asignatura de Desarrollo y diseño de aplicaciones web 
+## Asignatura: Prog. Diseño de App
+## EBC - LANCE
+En este repositorio se encuentra todas las actividades diseñadas en la materia.
+Todos los derechos de autor pertenecen a Kami, para trabajar o copiar cualquier codigo se debe citar al autor 
